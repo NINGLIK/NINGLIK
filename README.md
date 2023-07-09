@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey! I'm NINGLIK.<img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://github.com/NINGLIK/NINGLIK/blob/master/bank_cn.gif)" width="35"></h2>
+<h2 align="center">👋 Hey! I'm NINGLIK.<img src="[[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://github.com/NINGLIK/NINGLIK/blob/master/bank_cn.gif)]" width="35"></h2>
 :heart: :icecream: :strawberry: :watermelon: :lemon: :milk_glass: :coffee: :poultry_leg: :fries: :video_game: :computer: :notes: :moneybag:
 
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple)
