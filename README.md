@@ -21,7 +21,7 @@
 
 <img src="https://osu-sig.vercel.app/card?user=NINGLIK&mode=mania&blur=6&animation=true&hue=128">
 
-<!--![card](https://github.com/NINGLIK/netease-cloud-music-card/blob/main/card.svg)-->
+![card](https://github.com/NINGLIK/netease-cloud-music-card/blob/main/card.svg)
 
 <!--
 **NINGLIK/NINGLIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
