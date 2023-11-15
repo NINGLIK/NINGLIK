@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey! I'm NINGLIK.<img src="https://github.com/NINGLIK/NINGLIK/blob/master/bank_cn.gif" width="35"></h2>
 :heart: :icecream: :strawberry: :watermelon: :lemon: :milk_glass: :coffee: :poultry_leg: :fries: :video_game: :computer: :notes: :moneybag:<br/>
-学习爱我,我爱学习
+炒米摩洛哥炒饼
 
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple)
 ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078d6?style=flat-square&logo=Windows)
