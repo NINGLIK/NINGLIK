@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hey! I'm NINGLIK.<img src="https://github.com/NINGLIK/NINGLIK/blob/master/bank_cn.gif" width="35"></h2>
 
 <div align="right" alt="Coding" width="400"><img src="https://github.com/NINGLIK/netease-cloud-music-card/blob/main/card.svg"></div>
-<p align=lfte>
+<p align="left">
 
 :heart: :icecream: :strawberry: :watermelon: :lemon: :milk_glass: :coffee: :poultry_leg: :fries: :video_game: :computer: :notes: :moneybag:
 
