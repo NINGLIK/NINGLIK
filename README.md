@@ -4,10 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/NINGLIK/netease-cloud-music-card/blob/main/card.svg" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sytunguyen77&label=Profile%20views&color=0e75b6&style=flat" alt="sytunguyen77" /> </p>
-****
-
-
 <a href="/">
   
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple)
@@ -44,6 +40,8 @@
 **NINGLIK/NINGLIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sytunguyen77&label=Profile%20views&color=0e75b6&style=flat" alt="sytunguyen77" /> </p>
+****
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
