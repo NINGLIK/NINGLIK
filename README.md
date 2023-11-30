@@ -20,13 +20,14 @@
 
 </div>
 
+<div align="right"><img src="https://github.com/NINGLIK/netease-cloud-music-card/blob/main/card.svg"></div>
+
 <div align="center" width="150">
   
   ![](https://github.com/NINGLIK/NINGLIK/blob/master/as.png)
   
   <img src="https://osu-sig.vercel.app/card?user=NINGLIK&mode=mania&blur=6&animation=true&hue=128">
   
-  ![card](https://github.com/NINGLIK/netease-cloud-music-card/blob/main/card.svg)
 </div>
 
 
