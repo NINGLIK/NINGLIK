@@ -19,7 +19,8 @@
 :heart: :icecream: :strawberry: :watermelon: :lemon: :milk_glass: :coffee: :poultry_leg: :fries: :video_game: :computer: :notes: :moneybag:
 
 炒米摩洛哥炒饼
-<div align="right" alt="Coding" width="400"><img src="https://github.com/NINGLIK/netease-cloud-music-card/blob/main/card.svg"></div>
+
+<div align="right"><img src="https://github.com/NINGLIK/netease-cloud-music-card/blob/main/card.svg"></div>
 <div align="center" width="150">
   
   ![](https://github.com/NINGLIK/NINGLIK/blob/master/as.png)
