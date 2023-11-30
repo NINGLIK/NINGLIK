@@ -22,7 +22,7 @@
 
 <div align="right"><img src="https://github.com/NINGLIK/netease-cloud-music-card/blob/main/card.svg"></div>
 
-<div align="center" width="150">
+<div align="left" width="150">
   
   ![](https://github.com/NINGLIK/NINGLIK/blob/master/as.png)
   
