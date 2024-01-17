@@ -21,7 +21,7 @@
 
 :heart: :icecream: :strawberry: :watermelon: :lemon: :milk_glass: :coffee: :poultry_leg: :fries: :video_game: :computer: :notes: :moneybag:
 
-炒米摩洛哥炒饼
+有没有人教教我写代码
 
 <div align="center" width="150">
   
