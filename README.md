@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey! I'm NINGLIK.<img src="https://github.com/NINGLIK/NINGLIK/blob/master/bank_cn.gif" width="35"></h2>
+<!--<h2 align="center">👋 Hey! I'm NINGLIK.<img src="https://github.com/NINGLIK/NINGLIK/blob/master/bank_cn.gif" width="35"></h2>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/NINGLIK/netease-cloud-music-card/blob/main/card.svg" />
 
